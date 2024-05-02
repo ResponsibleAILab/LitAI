@@ -7,8 +7,7 @@ discovery. The inherent multimodality and diverse formats of
 literature, including text, tables, figures, and references, present
 significant challenges. This paper introduces LitAI, a novel
 approach that employs readily available generative AI tools to
-enhance multimodal information retrieval from literature docu-
-ments. By integrating tools such as optical character recognition
+enhance multimodal information retrieval from literature documents. By integrating tools such as optical character recognition
 (OCR) with generative AI services, LitAI facilitates the retrieval
 of text, tables, figures, and references from PDF documents. We
 have developed specific prompts that leverage in-context learning
