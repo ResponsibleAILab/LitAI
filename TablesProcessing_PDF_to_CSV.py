@@ -89,7 +89,7 @@ def improve_table_formatting(text, table_type):
 
     try:
         response = openai.Completion.create(
-            engine="gowtham-instruct",
+            engine="gpt-35-turbo-instruct",
             prompt=prompt,
             max_tokens=4000
         )
