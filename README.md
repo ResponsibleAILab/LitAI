@@ -24,12 +24,12 @@ Place your PDF files to be processed in the InputPDF directory.
 ##### Run the Scripts:
 - **Step 1:** Convert PDF files to raw text 
   ```bash
-  python PdfInput_to_Text.py
+  python Text1_PdfInput_to_Text.py
 
 - **Step 2:** Polish the text using OpenAI's GPT-3 model 
   ```bash
-  python Convert_Raw_to_PolishedContent.py
+  python Text2_Convert_Raw_to_PolishedContent.py
 
 - **Step 3:** Convert PDF files to raw text 
   ```bash
-  python PdfInput_to_Text.py
+  python Text3_PdfInput_to_Text.py
