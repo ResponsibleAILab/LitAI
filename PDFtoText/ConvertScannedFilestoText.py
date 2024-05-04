@@ -14,8 +14,8 @@ pytesseract.pytesseract.tesseract_cmd = tesseract_path
 
 # Define relative input and output directories
 base_directory = os.path.dirname(__file__)  # Gets the directory where this script is located
-input_directory = os.path.join(base_directory, 'Test SC')
-output_directory = os.path.join(base_directory, 'Validatation', 'Test SC')
+input_directory = os.path.join(base_directory, 'InputPDF')
+output_directory = os.path.join(base_directory, 'ScannedtoText')
 
 # Function to process each PDF file
 def process_pdf(pdf_file):
