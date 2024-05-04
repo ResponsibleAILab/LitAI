@@ -1,12 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import fitz  # PyMuPDF
 import os
-
 
 # Define relative input and output directories
 base_directory = os.path.dirname(__file__)  # Gets the directory where this script is located

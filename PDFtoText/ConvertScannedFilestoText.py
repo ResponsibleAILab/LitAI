@@ -11,7 +11,6 @@ tesseract_path = os.path.join(current_dir, "Tesseract-OCR", "tesseract.exe")
 # Set the path
 pytesseract.pytesseract.tesseract_cmd = tesseract_path
 
-
 # Define relative input and output directories
 base_directory = os.path.dirname(__file__)  # Gets the directory where this script is located
 input_directory = os.path.join(base_directory, 'InputPDF')

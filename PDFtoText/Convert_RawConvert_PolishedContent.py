@@ -71,9 +71,10 @@ def process_directory(input_directory, output_directory):
                 logging.error(f"An error occurred while processing '{filename}': {e}")
 
 def main():
-    input_directory = r"C:\Users\medis\OneDrive\Desktop\Validatation\extract_from_pdf"
-    output_directory = r"C:\Users\medis\OneDrive\Desktop\Validatation\Polished"
-
+        
+    input_directory = os.path.join(current_dir, "RawTextfromPdf")
+    output_directory = os.path.join(current_dir, "PolishedTextfiles")
+    
     process_directory(input_directory, output_directory)
 
 if __name__ == "__main__":

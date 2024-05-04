@@ -16,3 +16,33 @@ information extraction. Our empirical evaluations, conducted on
 datasets from the ecological and biological sciences, demonstrate
 the superiority of our approach over several established baselines
 including Tesseract-OCR and GPT-4.
+
+
+Instructions for Running PDF Text Processing Pipeline
+This section contains Python scripts for processing PDF files, polishing text, and extracting sections using various natural language processing techniques.
+Prerequisites
+    Python 3.x installed on your system.
+    Access to an OpenAI API key for text polishing.
+
+Usage
+Follow these steps to run the PDF text processing pipeline:
+
+Set Up Environment Variables:
+Ensure you have an OpenAI API key. Set it as an environment variable named OPENAI_API_KEY.
+Organize Directories:
+Place your PDF files to be processed in the InputPDF directory.
+Run the Scripts:
+Step 1: Convert PDF files to raw text 
+        python script1.py
+Step 2: Polish the text using OpenAI's GPT-3 model:
+        python script2.py
+Step 3: Extract sections from polished text and save them as JSON files:
+        python script3.py
+        
+Check Output:
+Processed text files will be saved in the PolishedTextfiles directory.
+Extracted section JSON files will be saved in the SectionWiseJson directory.
+
+
+
+

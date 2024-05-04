@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import openai
 import re
 import json
@@ -35,8 +29,9 @@ def extract_sections(file_content):
     return sections
 
 if __name__ == "__main__":
-    input_dir_path = r"C:\Users\medis\OneDrive\Desktop\Validatation\Polished"  # Directory path
-    output_file_path = r"C:\Users\medis\OneDrive\Desktop\Validatation\Polished" 
+       
+    input_directory = os.path.join(current_dir, "Polished")
+    output_directory = os.path.join(current_dir, "SectionWiseJson")
 
     for filename in os.listdir(input_dir_path):
         if filename.endswith(".txt"):  # Check if the file is a text file
@@ -52,10 +47,4 @@ if __name__ == "__main__":
                 json.dump(sections, json_file, ensure_ascii=False, indent=4)
 
             print(f"Extracted sections saved to {output_file_path}")
-
-
-# In[ ]:
-
-
-
 
