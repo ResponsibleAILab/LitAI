@@ -66,7 +66,7 @@ Place your PDF files to be processed in the InputPDF directory.
 
 - **Step 2:** Convert extracted tables to CSV format and polish/format using OpenAI's GPT-35-turbo-instruct model
   ```bash
-  python Text2_Convert_Raw_to_PolishedContent.py
+  python Tables2_Convert_Raw_to_PolishedContent.py
 
 Check Output:
 Extracted and formatted table files will be saved in the FormattedTables directory.
