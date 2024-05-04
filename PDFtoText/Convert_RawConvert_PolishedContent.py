@@ -31,7 +31,7 @@ def polish_text_with_gpt3(text):
             response = openai.ChatCompletion.create(
                 engine="gpt-35-turbo-16k",
                 messages=[
-                    {"role": "system", "content": "You are a typo correction tool assigned to refine an ecology research paper."},
+                    {"role": "system", "content": "You are a typo correction tool assigned to refine an research paper. Your task is to identify and correct any typographical errors while ensuring that the original words and sentences remain unchanged. Please review the provided research paper and rectify any typographical errors without altering the original content"},
                     {"role": "user", "content": chunk}
                 ]
             )
