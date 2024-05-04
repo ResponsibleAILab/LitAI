@@ -26,10 +26,48 @@ Place your PDF files to be processed in the InputPDF directory.
   ```bash
   python Text1_PdfInput_to_Text.py
 
-- **Step 2:** Polish the text using OpenAI's GPT-3 model 
+- **Step 2:** Polish the text using OpenAI's GPT-35-turbo-16k model 
   ```bash
   python Text2_Convert_Raw_to_PolishedContent.py
 
 - **Step 3:** Convert PDF files to raw text 
   ```bash
   python Text3_PdfInput_to_Text.py
+
+Check Output:
+Processed text files will be saved in the PolishedTextfiles directory.
+Extracted section JSON files will be saved in the SectionWiseJson directory.
+
+
+
+
+# Table Processing
+### 1. Instructions for Running PDF Table Extraction Pipeline
+
+This section contains Python scripts for extracting tables from PDF files and converting them into structured data formats using various data processing techniques.
+
+#### Prerequisites
+- Python 3.12 installed on your system.
+- Access to an OpenAI API key for text polishing.
+
+#### Usage
+Follow these steps to run the PDF text processing pipeline:
+
+##### Set Up Environment Variables:
+Ensure you have an OpenAI API key. Set it as an environment variable named OPENAI_API_KEY.
+
+##### Organize Directories:
+Place your PDF files to be processed in the InputPDF directory.
+
+##### Run the Scripts:
+- **Step 1:** Extract tables from PDF files 
+  ```bash
+  python Tables1_Processing_Pdf.py
+
+- **Step 2:** Convert extracted tables to CSV format and polish/format using OpenAI's GPT-35-turbo-instruct model
+  ```bash
+  python Text2_Convert_Raw_to_PolishedContent.py
+
+Check Output:
+Extracted and formatted table files will be saved in the FormattedTables directory.
+
