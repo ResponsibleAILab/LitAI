@@ -4,8 +4,12 @@ import pytesseract
 from PIL import Image
 import os
 
-# Configure path to Tesseract executable
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# Get the current directory of the script
+current_dir = os.path.dirname(os.path.abspath(__file__))
+# Assuming the Tesseract executable is in a folder named "Tesseract-OCR" within the current directory
+tesseract_path = os.path.join(current_dir, "Tesseract-OCR", "tesseract.exe")
+# Set the path
+pytesseract.pytesseract.tesseract_cmd = tesseract_path
 
 
 # Define relative input and output directories
