@@ -18,7 +18,8 @@ the superiority of our approach over several established baselines
 including Tesseract-OCR and GPT-4.
 
 
-Instructions for Running PDF Text Processing Pipeline
+## Instructions for Running PDF Text Processing Pipeline
+
 This section contains Python scripts for processing PDF files, polishing text, and extracting sections using various natural language processing techniques.
 Prerequisites
     Python 3.x installed on your system.
@@ -33,12 +34,12 @@ Organize Directories:
 Place your PDF files to be processed in the InputPDF directory.
 Run the Scripts:
 Step 1: Convert PDF files to raw text 
-        python script1.py
+        `python PdfInput_to_Text.py`
 Step 2: Polish the text using OpenAI's GPT-3 model:
-        python script2.py
+        `python Convert_RawConvert_PolishedContent.py`
 Step 3: Extract sections from polished text and save them as JSON files:
-        python script3.py
-        
+        `python Generating_SectionWise_Json.py`
+
 Check Output:
 Processed text files will be saved in the PolishedTextfiles directory.
 Extracted section JSON files will be saved in the SectionWiseJson directory.
