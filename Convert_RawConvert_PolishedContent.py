@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 import openai
 import logging
 import os
@@ -18,7 +15,7 @@ logging.basicConfig(filename='polishing_log.txt', level=logging.INFO, format='%(
 # Set up Azure OpenAI API configuration
 openai.api_type = "azure"
 openai.api_base = "https://your-instance.openai.azure.com/"
-openai.api_version = "2023-07-01-preview"
+openai.api_version = "api_version"
 openai.api_key = api_key
 
 def polish_text_with_gpt3(text):
@@ -71,11 +68,14 @@ def process_directory(input_directory, output_directory):
                 logging.error(f"An error occurred while processing '{filename}': {e}")
 
 def main():
-    input_directory = r"C:\Users\medis\OneDrive\Desktop\Validatation\extract_from_pdf"
-    output_directory = r"C:\Users\medis\OneDrive\Desktop\Validatation\Polished"
+        # Get the directory of the main Python script
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    input_directory = os.path.join(current_dir, "extract_from_pdf")
+    output_directory = os.path.join(current_dir, "Polished")
 
     process_directory(input_directory, output_directory)
-
+    
 if __name__ == "__main__":
     main()
 
