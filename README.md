@@ -18,8 +18,7 @@ the superiority of our approach over several established baselines
 including Tesseract-OCR and GPT-4.
 
 
-## Instructions for Running PDF Text Processing Pipeline
-
+Instructions for Running PDF Text Processing Pipeline
 This section contains Python scripts for processing PDF files, polishing text, and extracting sections using various natural language processing techniques.
 Prerequisites
     Python 3.x installed on your system.
