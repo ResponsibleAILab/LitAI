@@ -1,0 +1,755 @@
+Tropical Life Sciences Research, 27(1), 43–62, 2016 
+ 
+© Penerbit Universiti Sains Malaysia, 2016 
+Life History of Thalerosphyrus (Ephemeroptera: Heptageniidae) in Tropical 
+Rivers with Reference to the Varying Altitude 
+ 
+Suhaila Ab. Hamid*, Che Salmah Md Rawi and Abu Hassan Ahmad 
+ 
+School of Biological Sciences, Universiti Sains Malaysia, 11800 USM, Pulau Pinang, 
+Malaysia 
+ 
+ 
+Abstract: The life history and the influence of environmental parameters on Thalerosphyrus were investigated in two first-order rivers—the Batu Hampar River and the Teroi River of Gunung Jerai, Kedah—in northern peninsular Malaysia. Based on nymphal body length, Thalerosphyrus was found to be trivoltine in both rivers, regardless of the altitudinal difference, but its population abundance was four times higher in the Teroi River, presumably related to its better survival in the lower water temperature. At least nine instars of Thalerosphyrus were detected in the field-collected nymphs. Its life cycle was completed within 2.5–3.0 months, with overlapping cohorts and continual emergence of up to 3 months. The main driving factors of the high abundance of Thalerosphyrus were the water temperature and habitat quality.   
+ 
+Keywords: Flat-headed Mayfly, Thalerosphyrus, Development, Altitude, Temperature 
+ 
+ 
+INTRODUCTION 
+ 
+Studies of life history are important to explicate the structure, function, and behavior of an organism, and it is useful to compare the growth rates of natural individuals between populations (Benke 1970). Such comparisons are useful in determining variation among population growth rates, as influenced by environmental factors, such as temperature and altitude. When anthropogenic disturbances occur, life histories change and adapt to a particular situation (Lopez-Rodriguez et al. 2008). The most significant environmental factor affecting life-history patterns, especially growth rates and the seasonal timing of aquatic insects, is water temperature, based on previous studies by Sweeney and Vannote (1984), Sweeney (1984), and Jackson and Sweeney (1995). In general, aquatic insects grow faster and produce more generations (voltinism) in warmer water than those living in colder waters. Variations in the instar stages in a life cycle explicate differences in the mayfly life history of different cohorts (Ruffieux et al. 1999) living in different environments. In central Japan, Miyairi and Tojo (2007) found that Bleptus fasciatus (Heptageniidae) in the Matsumoto headwater area had a semivoltine life cycle, while Gonzalez et al. (2003) reported a bivoltine life cycle for Epeorus torrentium in the lowland Agüera stream basin in Spain, with water temperatures ranging from 6.3°C to 20.3°C. Most of the mayflies in Hong Kong, such as Ephemera (Heptageniidae), are univoltine (Dudgeon 1999). However, Kuroda et al. (1984) reported that Ephemera orientalis has three generations in a year, while Watanabe (1992) showed that the species is Bivoltine in Japan.  
+Concomitantly, several studies on the life histories of aquatic 
+invertebrates have been carried out worldwide, but very few studies have 
+focused on the influence of altitude on the communities of aquatic invertebrates. 
+Life history studies are advantageous in determining the influence of 
+environmental factors on growth rates of similar species at different altitudes 
+(Benke 1970). In general, the low temperatures at higher altitudes have been 
+hypothesized to affect the life history strategies and productivity of aquatic 
+insects (Wallace & Anderson 1996). Higher altitudes have cooler temperatures, 
+which may reduce the numbers of generations per year in mayflies (Clifford 1982; 
+Newbold et al. 1994). A comprehensive study by Heise et al. (1987) showed that 
+the burrowing mayfly, Hexagenia limbata, had a linear relationship between 
+voltinism and latitudinal location. In Korean streams, the mayfly Ephemera often 
+presents a unique pattern of altitudinal distribution (Lee et al. 1995, 1996, 2008).  
+Research on the life history and production of river insects has increased 
+extensively, with most studies centered on species in temperate regions, for 
+example in France (Cayrou & Cereghino 2003), Brazil (Fonseca Leal & de Assis 
+Esteves 2000), Spain (Gonzalez et al. 2001, 2003) and Idaho, USA (Robinson & 
+Minshall 1998; Taylor & Kennedy 2006). In the Asian region, such information is 
+comparatively scarce (Benke 1993; Chung 2005). In fact, there is a great 
+variability in the life cycles among species (Clifford 1982). The genus 
+Thalerosphyrus is widely distributed in peninsular Malaysia. The majority of 
+Thalerosphyrus inhabit upstream rivers of peninsular Malaysia. The nymph has a 
+relatively large body size in the final instar (Yule & Yong 2004). Its flat head and 
+stout femora contribute to its successful existence, potentially the most 
+productive mayfly species in the cool water of medium to fast-flowing streams in 
+the headwater ecosystem.  
+In this study, the life history of Thalerosphyrus was investigated in two 
+rivers with different altitudes that flow down from Gunung Jerai. This study was 
+designed to evaluate the growth of the Thalerosphyrus nymph, the number of 
+instars, the size of each instar (population dynamics), and the life cycle for a one-
+year duration. The variations in the rivers' physico-chemical parameters were 
+expected to affect the growth performances and population dynamics of this 
+species in the rivers.   
+ 
+Life History of Thalerosphyrus 
+45 
+MATERIALS AND METHODS 
+ 
+Sampling Site 
+This study was carried out in two rivers, the Batu Hampar and Teroi rivers of 
+Gunung Jerai Forest Reserve in the state of Kedah, in northern peninsular 
+Malaysia. The location of the rivers relative to sea level was recorded using 
+Global Positioning System versatile navigator (GPS map 76 CSX Garmin®, 
+Kansas, USA). Batu Hampar River is located in the Yan district and runs through 
+a populated village and fruit orchards in a lowland dipterocarp forest at 300 m 
+above sea level (asl). The sampling activities for this study took place at 
+N5°46.668’ E100°23.835’. The Teroi River is situated high up on the Gunung 
+Jerai at 1214 m asl. The sampling point was determined to be N5°48.328’ 
+E100°25.913’. 
+ 
+River Physical Measurements 
+Physical measurements of the rivers were taken concurrently with the 
+Thalerosphyrus collection every month from September 2007 to August 2008. 
+The river’s physical characteristics, such as width, depth, hydrogenic potential 
+(pH), water temperature, and water velocity were obtained in situ using an 
+electronic pH meter (HACH Co., Loveland, CO, USA) and a portable Velocity 
+Autoflow Watch (JDC Instrument, Arizona, USA). In situ measurements of the 
+width and depth were recorded using a measuring tape (3.2 m/12 feet). 
+ 
+Collection and Measurements of Thalerosphyrus 
+A modified kick-sampling technique of Merritt and Cummins (1996) was used to 
+collect 20 samples of Thalerosphyrus monthly from September 2007 to August 
+2008. A detailed explanation of the sampling. Procedure can be found elsewhere 
+(Suhaila & Che Salmah 2011). The kick-sampling technique requires a D-pond 
+net frame (300 µm mesh, 40 cm width and 30 cm height with a 60 cm long cone-
+shaped net) fitted to a 105 cm long handle. The opening of the D-pond net, which 
+faces upstream, was held vertically against the flow of the water. The nymphs 
+that detached from the substrates drifted into the net. Aquatic insect larvae on 
+pebbles, cobbles and woody debris were gently rubbed or scraped and collected 
+inside the net. The samples were brought back to the laboratory for identification. 
+The Thalerosphyrus were identified using the keys of Yule and Yong (2004), 
+Dudgeon (1999), and Morse et al. (1994). Identification was accomplished up to 
+genus level only, as there was no key for the Malaysian Ephemeroptera species. 
+Furthermore, the Thalerosphyrus species probably would be the same in these 
+two rivers, as these rivers are located in the same district in Kedah state, 
+peninsular Malaysia. The body length of the Thalerosphyrus nymphs was 
+measured from the anterior margin of the head to the posterior margin of the 
+tenth abdominal tergite (excluding caudal filaments) with a digital caliper (0–125 
+mm). As proposed by Miyairi and Tojo (2007), the head width of each nymph was 
+measured across the widest portion of the head capsule from the left to the right 
+outer margins of the compound eyes to the nearest 0.1 mm under a dissecting 
+microscope coupled with an Olympus Series image analyzer (Olympus Optical 
+Co., Tokyo).  
+Suhaila Ab. Hamid et al. 
+
+46 
+Nymphal body lengths were classified accordingly to separate their instar 
+stages, as suggested by Miyairi and Tojo (2007). The life cycle of Thalerosphyrus 
+was approximated through an analysis of the size-frequency distribution based 
+on the disparity in the frequency of nymphal body lengths of all individuals 
+collected over a year (Fonseca Leal & de Assis Esteves 2000). To classify the 
+Thalerosphyrus larval development, larval body size classes were categorized 
+into 0.5 mm intervals for head capsule width and 1.5 mm intervals for larva body 
+length. 
+Miyairi and Tojo (2007) and Benke (1970) suggested a categorization of 
+nymphal body lengths to separate instar stages for insects with an unknown 
+number of instars in their life cycle. In this method, the number of instar stages 
+was determined by counting backwards from the final instar with no successive 
+moulting (hence, designated as F), followed by the second-to-the-last instar (F-1) 
+until the newly emerged nymph. The final instar is assigned an F stage (or F0 = 
+age 0) because an adult emerges without requiring another molt. The 
+subsequent lower instars are accordingly assigned to stages following similar 
+assumptions.  
+
+Data Analysis 
+Differences in the water-parameter values in the two rivers were analyzed using 
+the Mann-Whitney test at p = 0.005 for non-normally distributed data 
+(Kolmogorov-Smirnov test, p<0.005). Spearman’s rho correlation and linear 
+regression analysis were used to determine the relationship between the water 
+parameters and Thalerosphyrus abundance and life history. To assign intervals 
+for the instar stages, the size frequency histogram and Discriminant Function 
+Analysis were used on all individuals collected over a year. All analysis was 
+conducted using the Statistical Package for Social Science (SPSS) version 22®.   
+Meanwhile, for each sampling month, the number of mean instars was 
+determined using a formula proposed by Snedecor and Cochran (1967) and 
+Benke (1970) to estimate the population growth in each habitat. As the 
+population was fairly asynchronous, especially in the Batu Hampar River, the 
+growth curve was smoothed by eye using a three-point moving average, as 
+suggested by Snedecor and Cochran (1967), for general comparisons. The mean 
+instar numbers (R) were plotted against time for each river using the following 
+formula: 
+1
+1
+1
+1
+2
+=
+=
+=
+2
+sum of all instar numbers
+R =
+total number of insects
+ˆ
+2
+(
+1)
+/
+2
+2
+2
+n
+n
+n
+i
+i
+n
+n
+i
+i
+i
+y_i
+x_i
+R
+y_i
+R
+x_i
+R
+y_i * x_i
+n n
+x
+
+
+
+
+
+ 
+
+
+
+
+1
+=
+ 
+ 
+where n is the number of samples (of equal area), yi is the sum of insect ages 
+(numbers) in sample i, xi is the number of insects in sample i, x  is the mean 
+number of insects per sample and ˆR  is the estimate of the mean instar number. 
+ 
+Life History of Thalerosphyrus 
+47 
+RESULTS 
+ 
+Environmental Conditions 
+Features of the hydrographic and hydrologic parameters in both rivers for the 12 
+months of sampling are shown in Table 1. The Teroi River is located at a 
+relatively high altitude (1214 asl), and the water temperature ranged from 
+19.2°C–21.3°C. In the Batu Hampar River (300 m asl), the water was slightly 
+warmer (23.5°C–25.2°C). The Batu Hampar River is a moderately wide river 
+(4.73 ± 0.4 m mean width) with a 0.34 ± 0.06 m mean depth. The water flow in 
+this river is relatively fast (0.65 ± 0.1 m/s). The Teroi River is a shallow river (0.17 
+± 0.07 m mean depth) with a 4.03 ± 0.7 m mean width. The water velocity of 1.22 
+± 0.123 m/s is the fastest among all rivers because the river flows over a steep 
+slope. The water in the Teroi River was more acidic (4.97 ± 0.21) than that in the 
+Batu Hampar River (6.06 ± 0.11). The results of the Mann-Whitney U test 
+showed that the monthly water velocity (z = 143.0, p = 0.002), water depth                   
+(z = 45.5, p = 0.04), pH (z = 22.0, p = 0.001), chemical oxygen demand (COD)              
+(z = 130.5, p = 0.016), and total suspended solid (TSS) (z = 169.0, p = 0.00) 
+were significantly different between the rivers. Out of six parameters analyzed, 
+only water velocity showed significant correlation with Thalerosphyrus abundance 
+(r = 0.450, p<0.05) and ammonia had positive correlation with the number of 
+instar (r = 0.475, p<0.05). In the same way, the temperature explained 20.3% of 
+the variability in Thalerosphyrus abundance (F = 10.66, p = 0.002). The velocity 
+and ammonia concentrations failed to meet the selection criteria, as indicated by 
+a non-significant t-value (p>0.05). The abundance of Thalerosphyrus did not 
+show temporal differences as the Kruskal-Wallis test (x2 = 8.51) was not 
+significant at p = 0.05.  
+ 
+ 
+Table 1: Hydrological data of the Batu Hampar and Teroi rivers (mean ± standard error).   
+ 
+River 
+Altitude  
+(m) 
+Width  
+(m) 
+Depth  
+(m) 
+Current 
+velocity 
+(ms–1) 
+Water 
+temperature  
+(°C) 
+ 
+pH 
+Batu Hampar 
+300 
+4.73 ±  
+0.38 
+0.34 ± 
+0.06 
+0.65 ±  
+0.13 
+24.20 ± 0.10 
+6.06 ± 
+0.11 
+Teroi 
+1214 
+4.03 ± 
+0.73 
+0.17 ± 
+0.07 
+1.22 ±  
+0.12 
+20.90 ± 0.28 
+4.97 ±  
+0.21 
+ 
+In addition, January 2008 to July 2008 represented the dry season, while 
+September 2007 to December 2007 and August 2008 occurred during the wet 
+season (provided by the Malaysian Meteorological Department). 
+ 
+Separation of Thalerosphyrus Nymphs into Instar Classes 
+Overall, a total of 139 individuals from the Batu Hampar River and 603 individuals 
+from the Teroi River were used to construct nymphal instar categories. There 
+was a strong relationship between body length and head capsule width in both 
+rivers (Batu Hampar River, R2 = 0.722, p = 0.003, and Teroi River, R2 = 0.714,         
+Suhaila Ab. Hamid et al. 
+ 
+48 
+p = 0.023). The separation of instar stages and supported by the discriminant 
+function analysis (DFA) (Table 2 and Fig. 1) resulted in a class interval of 0.5 mm 
+head capsule width and 1.5 mm body length for all nymphal instars (Table 2). 
+DFA found 2 discriminant functions that were statistically significant at the 95% 
+confidence level (Table 3). The first variate eigenvalue was 99.8%, whereas the 
+second variate only accounted for 0.02%. Based on a Wilks lambda calculation 
+and DFA scatter plot (Fig. 1), nine instar stages were formed. Based on the 
+constructed instar stages histograms and DFA in each river, nine Thalerosphyrus 
+instars were distinguished; F–F-8 (Table 2, Figs. 2, 3, 4, and 5). The nymphal 
+body length ranged from 2.0 to 15.4 mm (F-8–F), with head capsule width ranged 
+from 0.5 to 4.9 mm in both rivers (Table 2). 
+The growth of the Thalerosphyrus populations in the two rivers is shown 
+by the distribution of the m ean instars in Figure 6. In general, the Thalerosphyrus 
+population grew almost at the same rate in both rivers. The positive growth rates 
+should be read downwards because the negative signs were removed from the 
+number of instars on the Y-axis. The highest value (instar 8) represents the 
+youngest instar.  
+ 
+ 
+Table 2: Ranges of body length and head capsule width of Thalerosphyrus instar classes. 
+ 
+Instar class 
+Body length (mm) 
+Head capsule width (mm) 
+F-8 
+2.0–3.4 
+0.5–0.9 
+F-7 
+3.5–4.9 
+1.0–1.4 
+F-6 
+5.0–6.4 
+1.5–1.9 
+F-5 
+6.5–7.9 
+2.0–2.4 
+F-4 
+8.0–9.4 
+2.5–2.9 
+F-3 
+9.5–10.9 
+3.0–3.4 
+F-2 
+11.0–12.4 
+3.5–3.9 
+F-1 
+12.5–13.9 
+4.0–4.4 
+F 
+14.0–15.4 
+4.5–4.9 
+ 
+ 
+Table 3: Standard canonical discriminant function coefficients of body length (BL) and 
+head capsule width (HCW) of Thalerosphyrus. 
+ 
+Parameter 
+Canonical discriminant function 
+ 
+Function 1 
+Function 2 
+BL 
+2.418 
+–0.797 
+HCW 
+       –0.133 
+3.203 
+Constant 
+     –18.848 
+–3.808 
+ 
+ 
+Life History of Thalerosphyrus 
+49 
+ 
+Figure 1: Canonical discriminant function plot for instar stages of Thalerosphyrus; pooled 
+data of Thalerosphyrus from the Batu Hampar and Teroi Rivers. 
+ 
+ 
+ 
+ 
+Figure 2: Separation of Thalerosphyrus into instar stages based on body length of 
+nymphs collected during monthly sampling from the Batu Hampar River. 
+Suhaila Ab. Hamid et al. 
+ 
+50 
+ 
+Figure 3: Separation of Thalerosphyrus into instar stages based on body length of 
+nymphs collected during monthly sampling from the Teroi River. 
+ 
+ 
+ 
+ 
+Figure 4: Separation of Thalerosphyrus into instar stages based on head capsule width of 
+nymphs collected during monthly sampling from the Batu Hampar River. 
+ 
+ 
+Life History of Thalerosphyrus 
+51 
+ 
+Figure 5: Separation of Thalerosphyrus into instar stages based on head capsule width of 
+nymphs collected during monthly sampling from the Teroi River. 
+ 
+ 
+ 
+Figure 6: Growth of Thalerosphyrus populations shown by distributions of mean instars in 
+the Batu Hampar and Teroi rivers. Curves were fitted by eye using a three point moving 
+average.  
+Note: Vertical lines represent standard errors of means. 
+ 
+ 
+ 
+Suhaila Ab. Hamid et al. 
+ 
+52 
+Development of Thalerosphyrus Nymphs in the Rivers 
+The maximum abundance of Thalerosphyrus was documented at F-3 instar in the 
+Batu Hampar River (Fig. 7), and at F-6, F-5, and F-4 (Fig. 8) in the Teroi River. A 
+new generation of Thalerosphyrus in the Batu Hampar River began in October 
+2007, indicated by the appearance of very young nymphs (F-8) in the collection. 
+They grew to F-2 instar in November 2007, and adult emergence was suspected 
+to occur soon after. The population remained low, and only slightly larger instars 
+were collected in January 2008. A younger instar (F-6) was collected in February, 
+March, April and May 2008. In May, however, some nymphs had developed to 
+the penultimate instar (F-1), which signaled another adult emergence. There was 
+a potential adult emergence in August 2008 with the appearance of F-1 in the 
+sample. Therefore, in this river, the species was likely to be trivoltine. 
+In the Teroi River (Fig. 8), the smallest instar of Thalerosphyrus (F-8) 
+was collected in September 2007. These nymphs grew to F-1 and F instar in 
+November 2007 to January 2008 and June 2008. An adult emergence was 
+expected during this month and through January 2008. At the same times, young 
+instars (F-7) continuously entered the population, implying an asynchronous 
+development of the nymphs and hence the presence of overlapping cohorts. An 
+emergence of a large Thalerosphyrus population was predicted in March 2008, 
+and another small emergence was expected to commence in June 2008. 
+Frequent rains and harsh spates at the beginning of the wet season in July 2008 
+could have killed or drifted all the small nymphs downstream; consequently, there 
+was no collection for the month, and a very small population of Thalerosphyrus 
+was observed in August 2008. F-3 and F-2 populations were recovered from this 
+river in June 2008. Their development patterns indicated that an emergence likely 
+started in the river. Beginning in June 2008, when the largest larvae were collected, the population was low in August 2008. Based on this result, there was a strong possibility that the three generations of Thalerosphyrus occurred in a single year (trivoltine) in the Teroi River.
+
+Life History of Thalerosphyrus
+Figure 7: Size-frequency distribution of mean Thalerosphyrus in the Batu Hampar River, with samples collected monthly between September 2007 and August 2008. Suhaila Ab. Hamid et al.
+Figure 8: Size-frequency distribution of Thalerosphyrus in the Teroi River, with samples collected monthly between September 2007 and August 2008.  Life History of Thalerosphyrus
+
+DISCUSSION
+
+The exclusion of Thalerosphyrus between the high and low altitude rivers became apparent during the study. As described previously, the Teroi River is located at the peak of Gunung Jerai, and the water temperature is cooler than that in the Batu Hampar River (low altitude); thus, the abundance of Thalerosphyrus is greater in the Teroi River. The same shifts in Heptageniidae family density were reported by Gonzalez et al. (2003), Bargos et al. (1990), Graca et al. (1989), and Wohl et al. (1995). The first factor that contributes to the higher abundance of Thalerosphyrus is likely the water temperature. Low water temperature seemed to favor Thalerosphyrus abundance. According to Vannote and Sweeney (1980) and Newbold et al. (1994), temperature is the major ecological factor that affects the development of the eggs and nymphs of mayflies and influences ephemeropteran densities throughout their growth (Brittain 1990; Cereghino & Lavandier 1998). In this study, the Teroi River was found to be a better habitat that accommodated a four times higher abundance of Thalerosphyrus (603 individuals) than the Batu Hampar River (139 individuals). At 1214 m asl, the Teroi River had lower mean water temperatures (20.9 ± 0.3°C) throughout the year than the Batu Hampar River (mean temperature 24.2 ± 0.1°C), which explained the influence of temperature in regulating population abundance of this genus in the Gunung Jerai.   
+The development patterns of a few mayflies in the current study were significantly correlated with water temperature, particularly in the tropical region where the temperature was high. The relationship between Thalerosphyrus abundance and mean temperature was statistically significant (p<0.05), with the water temperature in the Teroi River lower than that of the other river studied. The Teroi River had lower mean water temperatures than the Batu Hampar River throughout the year. Indeed, in terms of numbers and their composition in the river, Thalerosphyrus had more success in the Teroi River than in the Batu Hampar River. Water temperature is a major factor determining egg development and nymphal growth in the ephemeropteran life history (Clifford 1982; Brittain 1990). Kukula (1997) found that Rhithrogena iridina in the Terebowiec stream, Poland, had a univoltine life cycle collected at 900 m asl with a water temperature range from 1.0°C to 14.8°C. Moreover, in the Lissuraga stream, France, the same species had a bivoltine life cycle because of the higher water temperature in the Lissuraga stream during the time period when the study was conducted (Thibault 1971 in Gonzalez et al. 2003). Moreover, Benke (1998) mentioned that the growth rate of mayflies in the Ogeechee River, Georgia, was shown to increase with temperature (mostly >22°C). 
+Evidence from the nymphal collections showed that at least three generations of Thalerosphyrus (trivoltine) occurred in both the Batu Hampar and Teroi rivers. In this case, an altitudinal difference of 900 m between the two rivers did not influence species voltinism. In temperate areas, an altitude that negatively corresponds with water temperature was proven to be the most important factor in determining growth and development (Graca et al. 1989; Bargos et al. 1990; Suhaila Ab. Hamid et al. Wohl et al. 1995; Gonzalez et al. 2003), thus explaining the number er of mayfly 
+generations occurring in a year.  
+Several studies have indicated the importance of altitude in determining 
+the voltinism of Heptageniidae, as well as other ephemeropteran families. This 
+factor, however, is strongly linked to the temperature that affects their growth 
+rate. Yan and Li (2007) found that at 450 m asl (15.4°C), Epeorus sp. in Hubei, 
+China, has two generations in a year. Bleptus fasciatus (Ephemeroptera: 
+Heptageniidae) in Matsumoto, Japan showed a semivoltine life cycle at an 
+altitude of 840 m (Miyairi & Tojo 2007). Humpesch (1979) in Austria proved the 
+existence of a univoltine Baetis alpine at an altitude of 1355 m asl and a bivoltine 
+at an altitude of 615 m asl. In this research, the variation in altitude did not alter 
+the growth of Thalerosphyrus due to the small variation in the water temperature. 
+Thalerosphyrus developed at the same rate in both rivers and consequently had 
+the same number of generations.  
+Apart from having a colder water temperature, the riverbed of the Teroi 
+River consists of bedrock, a very stable substrate with considerably fast water 
+flow (mean of 1.22 ± 0.123 m/s). Such a substrate is highly preferred by the 
+nymphs of Thalerosphyrus (Lee et al. 1996), justifying their high occurrence in 
+the river.  
+Predators, particularly fish, play a role in the Thalerosphyrus sp. 
+community. Several authors working on aquatic environments (Crowl et al. 1997; 
+Rosenfeld 1997) have stated the importance of ephemeropteran nymphs as a 
+dietary item for many fish species. From personal observations in the Teroi River, 
+there were no fish seen at the sampling site. In low pH water and steep slopes, 
+fish (the predators) are uncommon (Amir Shah Ruddin et al. 2009), which 
+therefore results in a higher survival rate of the Thalerosphyrus nymphs. Hence, 
+this could be a reason for the higher number of individuals of the Thalerosphyrus 
+in Teroi River than in the other river. In the Batu Hampar River, there were many 
+species of fish, for example, Channa striata, Channa gachua, Amblyceps 
+foratum, Devario regina, Betta pugnax, Neolissochilus hendersoni and 
+Monopterus albus (Amir Shah Ruddin et al. 2009). This is probably the largest 
+factor contributing to the lower abundance of Thalerosphyrus in the Batu Hampar 
+River than in the Teroi River. Likewise, the Batu Hampar River was located near 
+to a durian (Durio zibethinus) and local fruit plantation, providing a habitat for bats 
+and birds that might also be predators (of the adults) and further decrease their 
+number in the Batu Hampar River.  
+The results from this study showed that Thalerosphyrus nymphs 
+asynchronously developed in approximately 10 to 12 weeks (2.5–3.0 months), 
+from small instar to subimago, in both the Teroi River and Batu Hampar Rivers. 
+This result was comparable to that of a study in Tamil Nadu, where the Epeorus 
+sp. (Heptageniidae) took 2–3 months to complete their life cycle (Sivaruban et al. 
+2010). A study by Fonseca Leal and de Assis Esteves (2000) estimated an 
+interval 
+of 
+13–17 
+weeks 
+for 
+Campsurus 
+notatus 
+(Ephemeroptera: 
+Polymitarcyidae) to become adults in an Amazonian lake. Meanwhile, Epeorus 
+torrentium (Heptageniidae) took 20–24 weeks to become adults in a cold north 
+Iberian Stream, in Spain (Gonzalez et. al 2003). The difference was probably due 
+Life History of Thalerosphyrus 
+57 
+to the duration for egg laying and hatching in this species (Epeorus torrentium), 
+which was more extended (3 months) than that of Thalerosphyrus.  
+The same conclusion was suggested in a previous paper on the life 
+history of Caenis luctuosa (Caenidae) in the Aguera stream in northern Spain 
+(Gonzalez et al. 2001). Peran et al. (1999) declared that non-seasonal 
+multivoltine life histories were dependent on location. In this study, the first 
+nymph of Thalerosphyrus was collected in September 2007 in both selected 
+rivers. There were nine instars (F-8, F-7, F-6, F-5, F-4, F-3, F-2, F-1, F) and the 
+F-6 and F-5 stages constituted 70% of the population. The first cohort of 
+Thalerosphyrus that started To emerge in September could be regarded as conservative. The author has examined adults of the Heptageniidae family, which she collected herself every month throughout the year. Miyairi and Tojo (2007) discovered that the emergence of the mayfly Bleptus fasciatus (Heptageniidae) occurs from early June to late July only. The difference is likely due to the differences in climate because Japan is colder than Malaysia.  
+In this study, the Thalerosphyrus had nine instars. Needham et al. (1935) revealed that the Epeorus fragilis (Heptageniidae) had 11 instars in North America, and Kondratieff and Voshell (1980) found that Stenonema modestum (Heptageniidae) had at least 14 to 15 instars in Virginia, USA. By using the mean instar technique, there was a possibility to detect significant differences in the growth for Thalerosphyrus at each river. At this point, this technique simply showed an accurate method for demonstrating growth and giving estimates of the time spent in the various instars (Benke 1970) from field data, as many variables cannot be measured easily in the field. It was difficult to determine the precise number of instars because the growth rates cannot readily be determined from field sampling due to their asynchronous development (wide age spread of individuals). Additionally, it was very difficult to collect the first instar, probably because of the size and structure of the nymphs; they were too small and too fragile to be handled; therefore, the small nymphs were not included in the size class calculations. As stated by Needham et al. (1935), the first instar is minute and can be obtained by hatching the eggs in the laboratory. They found that the newly hatched Stenonema interpunctatum (Heptageniidae) nymph measured less than 0.5 mm in length. Hence, due to the small size of the newly hatched nymph and the use of net mesh during sampling in this study, the nymphs would definitely escape. Mayfly eggs may directly hatch, but small nymphs are hard to collect from the field (Humpesch 1980; Chung 2005). The first nymphal stage that was trapped in the net during sampling is probably the third instar nymph, which can be distinguished by its flattened legs, strongly developed femora and spines along the hind margin. Additionally, the growth rate and the number of nymphal instars in mayflies were affected by the environmental conditions, especially the water temperature (Vannote & Sweeney 1980; Giberson & Rosenberg 1992) and food (Cianciara 1979). 
+Regarding the synchronization, the Thalerosphyrus population was more synchronous in the Teroi River than in the Batu Hampar River. This is likely because more individuals were collected in the Teroi River, which is shown by the separated bar. Accordingly, the life history of Thalerosphyrus was asynchronous in both the studied rivers, with extended overlapping instar stages. Suhaila Ab. Hamid et al. 
+
+58 
+Studying the life history of Thalerosphyrus flowersi in Kumbakkarai stream, Tamil Nadu, India, Sivaruban et al. (2010) found that T. flowersi are multivoltine, with asynchronous and continuous emergence. The potential for overlap in mayflies was significantly increased compared to other insects because of their large numbers of instars and known developmental variability (Fink 1984). Nymphs of various sizes occurred throughout the sampling duration. This has also been shown in Bleptus fasciatus (Heptageniidae) (Miyairi & Tojo 2007) and Epeorus torrentium (Heptageniidae) (Gonzalez et al. 2003), which displayed asynchronous patterns. 
+The asynchronous life histories of Thalerosphyrus observed in the Batu Hampar and Teroi rivers could be explained as a result of the uncertain spates that occurred. Other authors (Robinson & Minshall 1998) have associated asynchronous life histories with changing and unpredictable flow regimes. Asynchronous development was widespread among aquatic insects because synchronization reduced cannibalism and access to food sources (Willis & Hendricks 1992; Willis et al. 1995). According to Benke (1970), the variation of 
+growth (synchronization) in insect species throughout the year was dependent on 
+environmental factors, such as temperature and food availability. Jackson and 
+Sweeney (1995) recorded the development of 35 insect species of the orders 
+Ephemeroptera, Plecoptera, Trichoptera, and Chironomidae in Costa Rican 
+streams that had an annual range of water temperature of 20°C–23°C, and most 
+of the taxa had multivoltine life cycles (32 of 35 taxa).  
+The lack of a positive increment in the Thalerosphyrus population growth 
+curves was related to the asynchronous population and thus the presence of 
+overlapping cohorts in both rivers. This pattern of growth is characteristic of 
+insects in tropical rivers, as previously observed in other heptageniids, Bleptus 
+fasciatus (Heptageniidae) (Miyairi & Tojo 2007) and Epeorus torrentium, 
+(Gonzalez et al. 2003) and dragonfly populations (Che Salmah et al. 2006). The 
+potential for overlapping cohorts in mayflies was greatly increased compared to 
+other insects because of their large numbers of instars and known developmental 
+variability (Fink 1984).  
+The life cycles of Thalerospyrus become apparent in the Batu Hampar 
+River because nymphs of various instars were collected all the time. This may be 
+related to the monthly number of instars collected. Numerous nymphs of various 
+instars were represented monthly, showing that this genus was well dispersed in 
+the Batu Hampar River.  
+Development instars F-6, F-5, F-4, and F-3 were well represented during 
+the dry season (January to July 2008) in all the studied rivers, most likely 
+because they were bigger instars and the low water level was suitable for their 
+emergence and oviposition. In reference to the influence of the physical river 
+factors, the water level and substrate stability affected the migration of the 
+Thalerosphyrus nymphs (Taylor & Kennedy 2006). The temporal differences of 
+abundance in the current study were believed to be the consequences of 
+different seasons. According to Miyairi and Tojo (2007), season is the major 
+ecological factor affecting the development of mayflies and influencing 
+ephemeropteran densities throughout their growth (Cereghino & Lavandier 
+1998). The growth patterns of a few mayflies in this study were not significantly 
+correlated with seasons, especially in the tropical region. As the water level 
+decreased, which was caused by the dry season, the instar development 
+continued (F-2 to F) in May and June and began to emerge in late June, peaking 
+in July. The high abundance of Thalerosphyrus in the dry season is expected to 
+result in continuous egg hatching and instar development. The low abundance in 
+July 2008 was likely the result of successful oviposition and emergence.  
+Spates and drying events were the common disturbances of rivers in the 
+tropical region. It seemed that Thalerosphyrus was resistant to spates and 
+maintained individuals in all development classes throughout the year. However, 
+Miller and Golladay (1996) found that Caenis (Caenidae) and other mayflies were 
+resistant to spates in south-central Oklahoma due to their ability to persist in 
+intermittent pools and find refugia during spates (Taylor & Kennedy 2006).  
+As a result, the lack of the above-mentioned information on the relationship 
+between the water current and life cycle in this study prevents us from drawing 
+conclusions. Thalerosphyrus might need a period of approximately one month 
+from the laying of their eggs until the eggs hatch which no nymphs would be 
+found in the river. Furthermore, different species populations demonstrate 
+different population behaviors especially during the interval between the laying 
+and hatching of the eggs. Further studies are needed to better understand the 
+complete life cycle of this genus or to gain a greater understanding at the species 
+level. 
+In summary, the abundance and life history of Thalerosphyrus were 
+impacted by water temperature but not by altitude. Cooler water and fast velocity 
+were related to the. Higher abundance of Thalerosphyrus found in the Teroi River 
+due to the physical characteristics of this river, such as bedrocks and high 
+altitude. The Thalerosphyrus in both rivers have at least nine instars with three 
+generations (trivoltine). The development of Thalerosphyrus was asynchronous, 
+with many overlapping cohorts coexisting in the rivers; thus, many species of 
+Thalerosphyrus were pooled together.  
+ 
+ 
+ACKNOWLEDGEMENT 
+ 
+We thank the School of Biological Sciences, Universiti Sains Malaysia for 
+providing us with various facilities to carry out this study. This study was 
+supported 
+by 
+the 
+Fundamental 
+Research 
+Grant 
+Scheme 
+(FRGS) 
+(203/PBIOL/671060), Ministry of Education (MOE), Malaysia.  
+ 
+ 
+REFERENCES 
+ 
+Amir Shah Ruddin M S, Zarul Hazrin H and Shahrul Anuar M S. (2009). Freshwater fishes 
+from Gunung Jerai, Kedah Darul Aman: A preliminary study. Tropical Life 
+Sciences Research 20(2): 59–70. 
+Bargos T, Mesanza J M, Basaguren A and Orive E. (1990). Assessing river water quality 
+by means of multifactorial methods using macroinvertebrates. A comparative 
+study of main water courses of Biscay. Water Research 24: 1–10. 
+ 
+Suhaila Ab. Hamid et al. 
+ 
+60 
+ 
+ 
+Benke A C. (1998). Production dynamics of riverine chironomids: Extremely high biomass 
+turnover rates of primary consumers. Ecology 79(3): 899–910. 
+ 
+Benke A C. (1993). Concepts and patterns of invertebrate production in running waters. 
+Verhandlungen des Internationalen Verein Limnologie 25: 15–38. 
+ 
+Benke A C. (1970). A method for comparing individual growth rates of aquatic insects with 
+special reference to the Odonata. Ecology 51(2): 328–331. 
+Brittain J E. (1990). Life history strategies in Ephemeroptera and Plecoptera. In I C 
+Campbell (ed.). Mayflies and stoneflies. Dordrecht: Kluwer Academic Publishers, 
+1–12. 
+Cayrou J and Cereghino R. (2003). Life history, growth and secondary production of 
+Caenis luctuosa and Cleon simile (Ephemeroptera) in a small pond, S. W. 
+France. Aquatic Insects 25(3): 191–201. 
+Cereghino R and Lavandier P. (1998). Influence of hypolimnetic hydropeaking on the 
+distribution and population dynamics of Ephemeroptera in a mountain stream. 
+Freshwater Biology 40(2): 385–399. 
+Che Salmah M R, Tribuana S W and Abu Hassan A. (2006). The population of Odonata 
+(dragonflies) in small tropical rivers with reference to asynchronous growth 
+patterns. Aquatic Insects 283(3): 1–15. 
+Chung K. (2005). The life cycle and secondary production of Cincticostella levanidovae 
+(Tshernova) collected from a headwater stream in Mt. Jumbong, Korea. Journal 
+Asia-Pacific Entomology 8(4): 367–374. 
+Cianciara S. (1979). Some study on the biology and bioenergetics of Cleon simile Eton. 
+(Ephemeropteres). Comptes Rendus Hebdomadaires Seances de I’Academie 
+des Sciences 249: 2118–2119. 
+Clifford H F. (1982). Life cycles of mayflies (Ephemeroptera) with special reference to 
+voltinism. Quaestiones Entomologicae 18(1–4): 15–90. 
+Crowl T A, Townsend C R, Bouwes N and Thomas H. (1997). Scales and causes of 
+patchiness in stream invertebrate as assemblages: Top-down predator effects? 
+Journal of North American Benthological Society 16(1): 227–285. 
+Dudgeon D. (1999). Tropical Asian streams: Zoobenthos, ecology and conservation. Hong 
+Kong: University Press. 
+Fink T J. (1984). Errors in instar determination of mayflies (Ephemeroptera) and stoneflies 
+(Plecoptera) using simple frequency, Janetschek, Cassie and Dyar's law 
+methods. Freshwater Biology 14(4): 347–365. 
+Fonseca Leal J J and de Assis Esteves F. (2000). Life cycle and production of Campsurus 
+notatus (Ephemeroptera, Polymitarcyidae) in an Amazonian lake impacted by 
+bauxite tailings (Para, Brazil). Hydrobiologia 437(1): 91–99. 
+Giberson D J and Rosenberg D M. (1992). Effects of temperature, food quantity and 
+nymphal rearing density on life history traits of a northern population of 
+Hexagenia 
+(Ephemeroptera: 
+Ephemeridae). 
+Journal 
+of 
+North 
+American 
+Benthological Society 11(2): 181–193. 
+Gonzalez J M, Basaguren A and Pozo J. (2003). Life history and production of Epeorus 
+torrentium Eaton (Ephemeroptera) in the intoxic, a mountain stream from the northern 
+of the Iberian Peninsula. Archiv fur Hydrobiologie 157(1): 1–18. meroptera: Heptageniidae) in a North Iberian Stream. 
+Aquatic Insects 25(4): 247–258. 
+ 
+. (2001). Life history and production of 
+Caenis luctuosa (Burmeister) 
+(Ephemeroptera: Caenidae) in two nearby reaches along a small stream. 
+Hydrobiologia 452(1): 209–215. 
+Graça M A S, Fonseca D M and Castro S T. (1989). The distribution of macroinvertebrate 
+communities in two Portuguese rivers. Freshwater Biology 22(2): 297–308. 
+Life History of Thalerosphyrus 
+61 
+Heise B A, Flannagan J F and Galloway T D. (1987). Life histories of Hexagenia limbata 
+and Ephemera simulans (Ephemeroptera) in Dauphin Lake, Manitoba. Journal of 
+the North American Benthological Society 6(4): 230–240. 
+Humpesch U H. (1979). Life cycles and growth rates of Baetis spp. (Ephemeroptera: 
+Baetidae) in the laboratory and in two stony streams in Austria. Freshwater 
+Biology 9(5): 467–479. 
+Jackson J K and Sweeney B W. (1995). Egg and larval development times for 35 species 
+of tropical stream insects from Costa Rica. Journal of the North American 
+Benthological Society 14(1): 115–130. 
+Kondratieff B C and Voshell J R. (1980). Life history and ecology of Stenonema modestum 
+(Banks) (Ephemeroptera: Heptageniidae) in Virginia, USA. Aquatic Insects 2(3): 
+177–189. 
+Kukula K. (1997). The life cycles of three species of Ephemeroptera in two streams in 
+Poland. Hydrobiologia 353(1): 193–198. 
+Kuroda T, Fujimoto T and Watanabe N C. (1984). Longitudinal distribution and life cycle of 
+the three species of Ephemera in the Kazuradani River, Kagawa Prefecture. 
+Kagawa Seibutsu 12: 15–21. 
+Lee S J, Bae Y J and Yoon I B. (1996). Life history aspects of Ephemera separigata Bae 
+(Ephemeroptera: Ephemeridae) from a mountain stream in central Korea. 
+Entomological Research Bulletin (Korea) 22: 73–76. 
+Lee S J, Hwang J M and Bae Y J. (2008). Life history of a lowland burrowing mayfly, 
+Ephemera orientalis (Ephemeroptera: Ephemeridae) in Korean stream. 
+Hydrobiologia 596(1): 279–288. 
+Lee S J, Yoon I B and Bae Y J. (1995). Altitudinal distribution of Ephemera strigata Eaton 
+and E. orientalis McLachlan (Ephemeroptera: Ephemeridae). Korean Journal of 
+Entomology 25(3): 201–208.  
+Lopez-Rodriguez M J, Tierno de Figueroa J M and Alba-Tercedor J. (2008). Life history 
+and larval feeding of some species of Ephemeroptera and Plecoptera (Insecta) in 
+the Sierra Nevada (Southern Iberian Peninsula). Hydrobiologia 610(1): 277–295. 
+Merritt R W and Cummins K W. (1996). An introduction to the aquatic insects of North 
+America, 3rd ed. Dubuque, Iowa, USA: Kendall/Hunt Publishing Company. 
+Miller A M and Golladay S W. (1996). Effects of spates and drying on macroinvertebrate 
+assemblages of an intermittent and perennial prairie stream. Journal of the North 
+American Benthological Society 15(4): 670–689. 
+Miyairi K and Tojo K. (2007). Biology of the mayfly Bleptus fasciatus Eaton (Insecta: 
+Ephemeroptera, Heptageniidae), with special reference to the distribution, 
+habitat, environment, life cycle and nuptial behavior. Limnology 8(2): 85–93. 
+Morse J C, Yang L and Tian L. (1994). Aquatic insects of China useful for monitoring 
+water quality. China: Hehai University Press.  
+Needham J G, Traver J R and Hsu Y C. (1935). The biology of mayflies with a systematic 
+account of North American species. New York: Comstock Publishing Co. Inc.  
+Newbold J D, Sweeney B W and Vannote R L. (1994). A model for seasonal synchrony in 
+stream mayflies. Journal of the North American Benthological Society 13(1): 3–18. 
+Perán J, Velasco J and Millán A. (1999). Life history and secondary production of Caenis 
+luctuosa (Ephemeroptera) in a semiarid stream (Southeast Spain). Hydrobiologia 
+400(1): 187–194. 
+Robinson C T and Minshall G W. (1998). Macroinvertebrate communities, secondary 
+production and life history patterns in two adjacent streams in Idaho, USA. 
+Archiv für Hydrobiologie 142(3): 257–281. 
+Rosenfeld J S. (1997). The influence of upstream predation on the expression of fish 
+effects in downstream patches. Freshwater Biology 37(3): 535–543. 
+Suhaila Ab. Hamid et al. 
+ 
+62 
+Ruffieux L, Sartori M and L'Eplattenier G. ( 1996). Palmen body: A reliable structure to 
+estimate the number of instars in Siphlonurus aestivalis (Eaton) (Ephemeroptera: 
+Siphlonuridae). International Journal of Insect Morphology and Embryology 
+25(3): 341–344. 
+Sivaruban T, Barathy S, Venkataraman K and Arunachalam M. (2010). Life cycle studies 
+of Heptageniidae (Insecta: Ephemeroptera) in Kumbbakarai Stream of Western 
+Ghats, Tamil Nadu, India. Journal of Threatened Taxa 2(10): 1223–1226. 
+Snedecor G W and Cochran W G. (1967). Statistical methods, 6th ed. Iowa, USA: The 
+Iowa State University Press.  
+Suhaila A H and Che Salmah M R. (2011). Influence of substrate-embeddedness and 
+canopy cover on the abundance and diversity of Ephemeroptera, Plecoptera and 
+Trichoptera (EPT) in recreational rivers. Aquatic Insects 33(4): 281–292. 
+Sweeney B W. (1984). Factors influencing life history patterns of aquatic insects. In V H 
+Resh and D M Rosenberg (eds). The ecology of aquatic insects. New York: 
+Praeger. 
+Sweeney B W and Vannote R L. (1984). Ephemerella mayflies of White Clay Creek: 
+Bioenergetic and ecological relationships among six coexisting species. Ecology 
+62: 1353–1369. 
+Taylor J M and Kennedy J H. (2006). Life history and secondary production of Caenis 
+latipennis (Ephemeroptera: Caenidae) in Honey Creek, Oklahoma. Annals of the 
+Entomological Society of America 99(5): 821–830. 
+Thibault M. (1971). Le développement des éphéméroptères d’un ruisseau a truites des 
+pyrénées-atlantiques, le lissuraga. Annales de Limnologie 7(1): 53–120.  
+Vannote R L and Sweeney B W. (1980). Geographic analysis of thermal equilibria: A 
+conceptual model for evaluating the effect of natural and modified thermal 
+regimes on aquatic insect communities. American Naturalist 115(5): 667–695. 
+Wallace J B and Anderson N H. (1996). Habitat, life history and behavioral adaptations of 
+aquatic insects. Iowa, USA: Kendall/Hunt Publishing Company.  
+Watanabe N C. (1992). The life cycle of Ephemera orientalis (Ephemeroptera: 
+Ephemeridae) in Kazuradani River, Kagawa Prefecture, Japan in relation to 
+altitude and gradient. Kagawa Seibutsu 13: 1–7. 
+Willis K J, Ling N and Chapman M A. (1995). Effects of temperature and chemical 
+formulation on the acute toxicity of pentachlorophenol to Simocephalus vetulus. 
+New Zealand Journal of Marine and Freshwater Research 29: 289–294. 
+Willis L D and Hendricks A C. (1992). Life history, growth, survivorship and production of 
+Hydropsyche slossonae in Mill Creek, Virginia. Journal of North American 
+Benthological Society 11(3): 290–303. 
+Wohl D L, Wallace J B and Meyer J L. (1995). Benthic macroinvertebrate 
+community structure, function and production with respect to habitat type, reach and 
+drainage basin in the southern Appalachians (USA). Freshwater Biology 34(3): 
+447–464. 
+Yan Y J and Li X I. (2007). Life history, secondary production and trophic basis of two 
+dominant mayflies in a subtropical stream of China. Chinese Journal of 
+Oceanology and Limnology 25(1): 106–115. 
+Yule C M and Yong H S. (2004). Freshwater invertebrates of the Malaysian region. Kuala 
+Lumpur: Academy of Science Malaysia.
