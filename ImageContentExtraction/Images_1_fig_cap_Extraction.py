@@ -92,6 +92,6 @@ def extract_and_name_figures(input_dir, output_dir):
     print(f"Image details saved to {json_path}")
 
 # Example usage with relative paths
-input_dir = "./inputPDF"  # Adjust this path as needed based on your project structure
+input_dir = "./InputPDF"  # Adjust this path as needed based on your project structure
 output_dir = "./output/extracted_images"  # Adjust this path as needed
 extract_and_name_figures(input_dir, output_dir)

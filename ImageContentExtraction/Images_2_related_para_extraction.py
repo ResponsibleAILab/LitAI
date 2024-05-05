@@ -45,7 +45,7 @@ with open(full_json_path, 'r') as file:
     data = json.load(file)
 
 # Directory where PDF files are stored
-pdf_directory = "./inputPDF"  
+pdf_directory = "./InputPDF"  
 
 # Process each entry in the JSON data
 for entry in data:
