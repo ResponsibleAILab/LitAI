@@ -87,24 +87,14 @@ Extracted and formatted table files will be saved in the FormattedTables directo
 - **output/extracted_images/**: Output directory for extracted images and related data.
 
 ### Running the Scripts
+- **Step 1:** Extract and Name Figures from PDFs, This script extracts images and their corresponding captions from PDF files, and names the files based on these captions
+  ```bash
+  python Images_1_fig_cap_Extraction.py
 
-- **Step 1:** Extract and Name Figures from PDFs
-This script extracts images and their corresponding captions from PDF files, and names the files based on these captions.
-```bash
-python Images_1_fig_cap_Extraction.py
-
-
-- **Step 2:**  Extract Text and Find Related Paragraphs
-
-After images are extracted and named, this script reads text from the PDF and uses OpenAI's GPT-35-turbo-instruct model to find paragraphs related to the image captions.
-```bash
-python Images_2_related_para_extraction.py
-
-
-- **Step 3:**  Process Images and Update JSON Data
-
-The final script encodes images in base64 and sends them to OpenAI's GPT-4-Vision-Preview model for processing, retrieving descriptive content about the images which it adds to the JSON output.
-
-```bash
-python Images_3_Extracting_Image_Content.py
-
+- **Step 2:** Extract Text and Find Related Paragraphs, uses OpenAI's GPT-35-turbo-instruct model
+  ```bash
+  python Images_2_related_para_extraction.py
+  
+- **Step 3:** Process Images and retrieving descriptive content about the images OpenAI's GPT-4-Vision-Preview model 
+  ```bash
+  python Images_3_Extracting_Image_Content.py
