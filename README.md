@@ -99,7 +99,7 @@ This section involves extracting figures, text, and processing images from PDF d
   ```bash
   python Images_3_Extracting_Image_Content.py
 
-Output
+### Final Outputs
 -Extracted Images: Images extracted from PDFs are saved in the `output/extracted_images/` directory.
 -Initial JSON File (`image_details.json`): This file includes basic details such as file names, page numbers, and captions for each extracted image, stored in the `output/extracted_images/` directory.
 - Enhanced JSON File (`image_data_with_responses.json`): This updated file contains all the information from the initial JSON plus additional descriptive content about the images provided by AI analysis, located in the same directory.
