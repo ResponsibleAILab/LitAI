@@ -69,8 +69,8 @@ Ensure you have an OpenAI API key. Set it as an environment variable named OPENA
 Check Output:
 Extracted and formatted table files will be saved in the FormattedTables directory.
 
-# Enhanced Document Processing Pipeline
-## This project involves extracting figures, text, and processing images from PDF documents using AI tools.
+# Image content Extraction
+This section involves extracting figures, text, and processing images from PDF documents using AI tools.
 
 ### Prerequisites
 - Python 3.12 installed on your system.
