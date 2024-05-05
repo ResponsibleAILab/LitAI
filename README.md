@@ -24,15 +24,15 @@ Place your PDF files to be processed in the InputPDF directory.
 ###  Run the Scripts:
 - **Step 1:** Convert PDF files to raw text 
   ```bash
-  python Text1_PdfInput_to_Text.py
+  python Text_1_PdfInput_to_Text.py
 
 - **Step 2:** Polish the text using OpenAI's GPT-35-turbo-16k model 
   ```bash
-  python Text2_Convert_Raw_to_PolishedContent.py
+  python Text_2_Convert_Raw_to_PolishedContent.py
 
 - **Step 3:** Convert PDF files to raw text 
   ```bash
-  python Text3_PdfInput_to_Text.py
+  python Text_3_PdfInput_to_Text.py
 
 ###  Output:
 - Processed text files will be saved in the PolishedTextfiles directory.
@@ -60,11 +60,11 @@ Ensure you have an OpenAI API key. Set it as an environment variable named OPENA
 ###  Run the Scripts:
 - **Step 1:** Extract tables from PDF files 
   ```bash
-  python Tables1_Processing_Pdf.py
+  python Tables_1_Processing_Pdf.py
 
 - **Step 2:** Convert extracted tables to CSV format and polish/format using OpenAI's GPT-35-turbo-instruct model
   ```bash
-  python Tables2_Convert_Raw_to_PolishedContent.py
+  python Tables_2_Convert_Raw_to_PolishedContent.py
 
 ###  Output:
 - Extracted and formatted table files will be saved in the FormattedTables directory.
