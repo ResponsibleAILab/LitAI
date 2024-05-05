@@ -8,20 +8,20 @@
 
 This section contains Python scripts for processing PDF files, polishing text, and extracting sections using various natural language processing techniques.
 
-#### Prerequisites
+###  Prerequisites
 - Python 3.12 installed on your system.
 - Access to an OpenAI API key for text polishing.
 
-#### Usage
+###  Usage
 Follow these steps to run the PDF text processing pipeline:
 
-##### Set Up Environment Variables:
+###  Set Up Environment Variables:
 Ensure you have an OpenAI API key. Set it as an environment variable named OPENAI_API_KEY.
 
-##### Organize Directories:
+###  Organize Directories:
 Place your PDF files to be processed in the InputPDF directory.
 
-##### Run the Scripts:
+###  Run the Scripts:
 - **Step 1:** Convert PDF files to raw text 
   ```bash
   python Text1_PdfInput_to_Text.py
@@ -34,9 +34,9 @@ Place your PDF files to be processed in the InputPDF directory.
   ```bash
   python Text3_PdfInput_to_Text.py
 
-Check Output:
-Processed text files will be saved in the PolishedTextfiles directory.
-Extracted section JSON files will be saved in the SectionWiseJson directory.
+###  Output:
+- Processed text files will be saved in the PolishedTextfiles directory.
+- Extracted section JSON files will be saved in the SectionWiseJson directory.
 
 
 # Table Processing
@@ -44,20 +44,20 @@ Extracted section JSON files will be saved in the SectionWiseJson directory.
 
 This section contains Python scripts for extracting tables from PDF files and converting them into structured data formats using various data processing techniques.
 
-#### Prerequisites
+### Prerequisites
 - Python 3.12 installed on your system.
 - Access to an OpenAI API key for text polishing.
 
-#### Usage
+###  Usage
 Follow these steps to run the PDF text processing pipeline:
 
-##### Set Up Environment Variables:
+###  Set Up Environment Variables:
 Ensure you have an OpenAI API key. Set it as an environment variable named OPENAI_API_KEY.
 
-##### Organize Directories:
+###  Organize Directories:
 - **InputPDF/**: Place your PDF files to be processed in this directory.
 
-##### Run the Scripts:
+###  Run the Scripts:
 - **Step 1:** Extract tables from PDF files 
   ```bash
   python Tables1_Processing_Pdf.py
@@ -66,8 +66,8 @@ Ensure you have an OpenAI API key. Set it as an environment variable named OPENA
   ```bash
   python Tables2_Convert_Raw_to_PolishedContent.py
 
-Check Output:
-Extracted and formatted table files will be saved in the FormattedTables directory.
+###  Output:
+- Extracted and formatted table files will be saved in the FormattedTables directory.
 
 # Image content Extraction
 This section involves extracting figures, text, and processing images from PDF documents using AI tools.
