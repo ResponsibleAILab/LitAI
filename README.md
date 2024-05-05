@@ -55,7 +55,7 @@ Follow these steps to run the PDF text processing pipeline:
 Ensure you have an OpenAI API key. Set it as an environment variable named OPENAI_API_KEY.
 
 ##### Organize Directories:
-Place your PDF files to be processed in the InputPDF directory.
+- **InputPDF/**: Place your PDF files to be processed in this directory.
 
 ##### Run the Scripts:
 - **Step 1:** Extract tables from PDF files 
@@ -94,7 +94,7 @@ Extracted and formatted table files will be saved in the FormattedTables directo
 - **Step 2:** Extract Text and Find Related Paragraphs, uses OpenAI's GPT-35-turbo-instruct model
   ```bash
   python Images_2_related_para_extraction.py
-  
+
 - **Step 3:** Process Images and retrieving descriptive content about the images OpenAI's GPT-4-Vision-Preview model 
   ```bash
   python Images_3_Extracting_Image_Content.py
