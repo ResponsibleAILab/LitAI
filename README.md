@@ -69,7 +69,7 @@ Ensure you have an OpenAI API key. Set it as an environment variable named OPENA
 ###  Output:
 - Extracted and formatted table files will be saved in the FormattedTables directory.
 
-# Image content Extraction
+# Image Content Extraction
 This section involves extracting figures, text, and processing images from PDF documents using AI tools.
 
 ### Prerequisites
